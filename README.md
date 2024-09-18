@@ -1,3 +1,3 @@
 # Azure-Project-Tracker
 #### Creating a Tool to Track Projects from Concept-to-Delivery
-I am creating this repository to document my learning, planning, and implementation of a project tracker using Microsoft Azure and GitHub DevOps.
+I am creating this repository to document my learning, planning, and implementation of a project tracker using Microsoft Azure and GitHub DevOps. Tools and Dashboards play a key role in project management and create a medium for all stakeholders to easily use. Microsoft Azure and GitHub DevOps are two of my favorite tools I grasped onto as I started my journey into tech. I plan to continue to refine and build upon the lessons I learn as this test project moves forward. I wish to also gain stakeholders as the test project progresses to build upon my skills in stakeholder management and engagement. 
